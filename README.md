@@ -43,13 +43,6 @@ python gerar_relatorio.py
 ```
 O arquivo **relatorio_vendas.pdf** será salvo na pasta do projeto.
 
-## 📷 Exemplo de Gráficos
-### 📌 Gráfico de Vendas por Loja
-![Gráfico de Vendas](https://via.placeholder.com/600x300)
-
-### 📌 Dashboard Interativo
-![Dashboard](https://via.placeholder.com/600x300)
-
 ## 📄 Relatório PDF
 O relatório gerado contém:
 ✅ Sumário das vendas
